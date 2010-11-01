@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Intelligent @ GitHub :: Index
+title: "Artificial Intelligent @ GitHub :: Index"
 ---
 
 CSS: style.css
