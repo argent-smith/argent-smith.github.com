@@ -1,3 +1,8 @@
+---
+layout: default
+title: Artificial Intelligent @ GitHub :: Index
+---
+
 CSS: style.css
 Use numbered headers: false
 HTML use syntax: true
