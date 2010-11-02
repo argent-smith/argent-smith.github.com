@@ -1,16 +1,43 @@
 ---
 layout: default
-title: "Artificial Intelligent @ GitHub"
+title: "Artificial Intelligent"
 ---
 
-CSS: /css/default.css
-Use numbered headers: false
-HTML use syntax: true
+{{ page.title }}                        
+================
 
-Artificial Intelligent @ GitHub                                     {: .small}
-========================================
++---- {avatar}
+=----
+
+Bio hash
+---------
+{% highlight ruby %}
+
+    :name               => "Pavel Argentov"
+
+    :born		=> 19721009
+    :family		=> [:wife, [:son, :daughter]] 
+    :programming_in	=> [:ruby, :java, :c, :ocaml]
+
+    :programming_ruby	=> "since 2002"
+
+    :areas_of_expertise	=> [
+                            "Unix & Cisco systems administration",
+                            "Systems administration automation",
+		            "ISP network administration"
+		           ]
+
+    :locale             => "ru_RU"
+
+{% endhighlight %}
 
 Projects
 --------
 
 * [BSD RSH (RFC 1282) Client] (rsh)
+
+Contacts
+--------
+
+ - Email: <argentoff@gmail.com>
+ - Skype: argent_smith
