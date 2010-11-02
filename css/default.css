@@ -34,6 +34,16 @@ body {
     border-width: 1px;
 }
 
+#avatar {
+  margin: 0 auto;
+  margin-right: 20px;
+  float: right;
+  vertical-align: top;
+
+}
+
+h1, h2, h3 { font-effect: outline; }
+
 h1 { font-size: 3.8em; color: #636363; margin-bottom: 3px;
      text-shadow: 1px 2px 6px rgba(0,0,0, 0.3)}
 
@@ -63,3 +73,10 @@ pre { background: #222222; color: #fff; padding: 15px;
 hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
 
 .footer { text-align:center; padding-top:30px; font-style: italic; }
+
+.avatar_pic {
+  border: solid black 1px;
+  box-shadow: 1px 2px 6px rgba(0,0,0, 0.5);
+  -moz-box-shadow: 1px 2px 6px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 1px 2px 6px rgba(0,0,0, 0.5);
+}

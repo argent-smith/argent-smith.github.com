@@ -6,7 +6,8 @@ title: "Artificial Intelligent"
 {{ page.title }}                        
 ================
 
-+---- {avatar}
++---- {: #avatar}
+<img src="/pics/1032204.jpg" class="avatar_pic" />
 =----
 
 Bio hash
