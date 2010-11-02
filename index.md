@@ -15,6 +15,7 @@ Bio hash
 {% highlight ruby %}
 
     :name               => "Pavel Argentov"
+    :aka		=> :argent_smith
 
     :born		=> 19721009
     :family		=> [:wife, [:son, :daughter]] 
@@ -35,10 +36,19 @@ Bio hash
 Projects
 --------
 
-* [BSD RSH (RFC 1282) Client] (rsh)
+* __Ruby gems:__
+
+  [BSD RSH (RFC 1282) Client](rsh)
+
+
 
 Contacts
 --------
 
  - Email: <argentoff@gmail.com>
  - Skype: argent_smith
+
++-- {: #footer}
+Powered by [Jekyll](http://github.com/mojombo/jekyll); design & programming by
+argent_smith.
+=--
