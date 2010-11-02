@@ -9,6 +9,5 @@ manifestation of my tremendous web-designing talent!
 
 Used technics: markdown, liquid, jekyll, xhtml.
 
-+- {: #footer}
+----
 Author: Pavel _argent_smith_ Argentov <argentoff@gmail.com>
-=-
