@@ -5,9 +5,13 @@ title: "Artificial Intelligent"
 
 {{ page.title }}                        
 ================
+**On this page:**
+
+* toc
+{:toc}
 
 +---- {: #avatar}
-<img src="/pics/1032204.jpg" class="avatar_pic" />
+![argent_smith.face](/pics/1032204.jpg){: .avatar_pic}
 =----
 
 Bio hash
@@ -18,8 +22,16 @@ Bio hash
     :aka		=> :argent_smith
 
     :born		=> 19721009
-    :family		=> [:wife, [:son, :daughter]] 
-    :programming_in	=> [:ruby, :java, :c, :ocaml]
+    :family		=> [:wife, [:son, :daughter]]
+
+    :programming_in	=> [
+    			    :ruby, 
+			    :java, 
+			    :c, 
+			    :ocaml,
+			    :perl,
+    			    :thousand_small_unix_languages
+			   ]
 
     :programming_ruby	=> "since 2002"
 
@@ -47,8 +59,16 @@ Contacts
 
  - Email: <argentoff@gmail.com>
  - Skype: argent_smith
+ - RIPE: PA5363-RIPE
 
-+-- {: #footer}
-Powered by [Jekyll](http://github.com/mojombo/jekyll); design & programming by
-argent_smith.
-=--
+Links
+-----
+
+ - <http://github.com/argent-smith>
+ - <http://argent-smith.livejournal.com>
+ - <http://argent-smith.tumblr.com>
+ - <http://twitter.com/#!/argent_smith>
+ - <http://google.com/profiles/argentoff>
+ - <http://facebook.com/ArgentSmith>
+
+{% include footer.md %}
