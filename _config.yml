@@ -4,18 +4,19 @@ auto:        true
 server:      true
 server_port: 4000
 
+exclude:     nbproject
 source:      .
 destination: ./_site
 plugins:     ./_plugins
 
 future:      true
-lsi:         false
+lsi:         true
 pygments:    true
 markdown:    maruku
 permalink:   date
 
 maruku:
-  use_tex:    false
+  use_tex:    true
   use_divs:   true
   png_engine: blahtex
   png_dir:    images/latex
