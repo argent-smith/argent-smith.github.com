@@ -52,6 +52,14 @@ Projects
 
   [BSD RSH (RFC 1282) Client](rsh)
 
+* __Under construction:__
+
+  [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool
+
+* __Gists:__
+
+  [A script](https://gist.github.com/675426) to generate IDN BIND configuration
+
 
 
 Contacts
