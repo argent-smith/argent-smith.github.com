@@ -60,7 +60,10 @@ Projects
 
   [A script](https://gist.github.com/675426) to generate IDN BIND configuration
 
+* __Web:__
 
+  [Veraisvoboda.info](http://veraisvoboda.info), the site dedicated to Freedom 
+  of Conscience in Russia. Made of Jekyll/Sinatra/Rack/Heroky combination.
 
 Contacts
 --------
