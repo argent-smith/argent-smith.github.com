@@ -54,7 +54,8 @@ Projects
 
 * __Under construction:__
 
-  [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool
+  [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
+  [girror](http://github.com/argent-smith/girror) -- [G]it the m[irror]: the remote site backup tool which SHOULD work with git and sftp.
 
 * __Gists:__
 
