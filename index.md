@@ -48,14 +48,14 @@ Bio hash
 Projects
 --------
 
-* __Ruby gems:__
+* __Published Ruby gems:__
 
-  [BSD RSH (RFC 1282) Client](rsh)
+  - [BSD RSH (RFC 1282) Client](rsh)
+  - [girror](http://github.com/argent-smith/girror) -- [G]it the m[irror]: the remote site backup tool which couples git and sftp.
 
 * __Under construction:__
 
   - [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
-  - [girror](http://github.com/argent-smith/girror) -- [G]it the m[irror]: the remote site backup tool which SHOULD work with git and sftp.
 
 * __Gists:__
 
