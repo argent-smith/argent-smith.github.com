@@ -55,7 +55,7 @@ Projects
 * __Under construction:__
 
   - [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
-  - [girror](http://github.com/argent-smith/girror) -- [G]it the m[irror]: the remote site backup tool which SHOULD work with git and sftp.
+  - [girror](http://github.com/argent-smith/girror) -- \[G\]it the m\[irror\]: the remote site backup tool which SHOULD work with git and sftp.
 
 * __Gists:__
 
@@ -64,7 +64,7 @@ Projects
 * __Web:__
 
   [Veraisvoboda.info](http://veraisvoboda.info), the site dedicated to Freedom 
-  of Conscience in Russia. Made of Jekyll/Sinatra/Rack/Heroky combination.
+  of Conscience in Russia. Made of Jekyll/Sinatra/Heroku combination.
 
 Contacts
 --------
