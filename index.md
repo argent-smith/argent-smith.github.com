@@ -38,10 +38,11 @@ Bio hash
     :areas_of_expertise	=> [
                             "Unix & Cisco systems administration",
                             "Systems administration automation",
-		            "ISP network administration"
+		            "ISP network administration",
+			    "Technical translation and software localization"
 		           ]
 
-    :locale             => "ru_RU"
+    :locale             => "ru, en"
 
 {% endhighlight %}
 
@@ -66,6 +67,11 @@ Projects
 
   [Veraisvoboda.info](http://veraisvoboda.info), the site dedicated to Freedom 
   of Conscience in Russia. Made of Jekyll/Sinatra/Heroku combination.
+
+* __Translations__
+
+  [Voice Search](https://github.com/eligrey/voice-search) Google Chrome
+  add-on Russian localization.
 
 Contacts
 --------
