@@ -70,10 +70,10 @@ Projects
 
 * __Translations__
 
-  [Voice Search](https://github.com/eligrey/voice-search) Google Chrome
-  add-on Russian localization.
-  [Rubinius][1]: parts of <http://rubini.us/doc/ru> subtree; translation, edition, doc translation project
-  coordination (thanks to the team!).
+  + [Voice Search](https://github.com/eligrey/voice-search) Google Chrome
+    add-on Russian localization.
+  + [Rubinius][1]: parts of <http://rubini.us/doc/ru> subtree; translation, edition, doc translation project
+    coordination (thanks to the team!).
 
 Contacts
 --------
