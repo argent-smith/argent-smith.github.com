@@ -38,7 +38,8 @@ Bio hash
     :areas_of_expertise	=> [
                             "Unix & Cisco systems administration",
                             "Systems administration automation",
-		            "ISP network administration",
+		            "ISP & multiservice network administration",
+			    "LIR administration",
 			    "Technical translation and software localization"
 		           ]
 
@@ -52,12 +53,11 @@ Projects
 * __Published Ruby gems:__
 
   - [BSD RSH (RFC 1282) Client](rsh)
-  - [girror](http://github.com/argent-smith/girror) -- [G]it the m[irror]: the remote site backup tool which couples git and sftp.
+  - [girror](http://github.com/argent-smith/girror) -- \[G\]it the m\[irror\]: the remote site backup tool which couples git and sftp.
 
 * __Under construction:__
 
   - [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
-  - [girror](http://github.com/argent-smith/girror) -- \[G\]it the m\[irror\]: the remote site backup tool which SHOULD work with git and sftp.
 
 * __Gists:__
 
@@ -72,6 +72,8 @@ Projects
 
   [Voice Search](https://github.com/eligrey/voice-search) Google Chrome
   add-on Russian localization.
+  [Rubinius][1]: parts of <http://rubini.us/doc/ru> subtree; translation, edition, doc translation project
+  coordination (thanks to the team!).
 
 Contacts
 --------
@@ -89,5 +91,7 @@ Links
  - <http://twitter.com/#!/argent_smith>
  - <http://google.com/profiles/argentoff>
  - <http://facebook.com/ArgentSmith>
+
+ [1]: http://rubini.us "Rubinius project"
 
 {% include footer.md %}
