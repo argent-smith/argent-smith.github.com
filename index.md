@@ -3,7 +3,7 @@ layout: default
 title: "Artificial Intelligent"
 ---
 
-{{ page.title }}                        
+{{ page.title }}
 ================
 **On this page:**
 
@@ -25,11 +25,11 @@ Bio hash
     :family		=> [:wife, [:son, :daughter]]
 
     :programming_in	=> [
-    			    :ruby, 
-			    :java, 
-			    :c, 
+    			    :ruby,
 			    :ocaml,
 			    :perl,
+			    :java,
+			    :c,
     			    :thousand_small_unix_languages
 			   ]
 
@@ -40,32 +40,36 @@ Bio hash
                             "Systems administration automation",
 		            "ISP & multiservice network administration",
 			    "LIR administration",
-			    "Technical translation and software localization"
+			    "Technical translation and software localization",
+                            "Programming",
+                            "Writing",
+                            "Teaching Biology, Chemistry, Philosophy and Theology"
+                            "Making fun"
 		           ]
 
-    :locale             => "ru, en"
+    :locale             => "ru_RU, en_US"
 
 {% endhighlight %}
 
 Projects
 --------
 
-* __Published Ruby gems:__
+* __Published Ruby Gems__
 
   - [BSD RSH (RFC 1282) Client](rsh)
   - [girror](http://github.com/argent-smith/girror) -- \[G\]it the m\[irror\]: the remote site backup tool which couples git and sftp.
 
-* __Under construction:__
+* __Under construction__
 
   - [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
 
-* __Gists:__
+* __Gists__
 
   [A script](https://gist.github.com/675426) to generate IDN BIND configuration
 
-* __Web:__
+* __Web__
 
-  [Veraisvoboda.info](http://veraisvoboda.info), the site dedicated to Freedom 
+  [Veraisvoboda.info](http://veraisvoboda.info), the site dedicated to Freedom
   of Conscience in Russia. Made of Jekyll/Sinatra/Heroku combination.
 
 * __Translations__
@@ -74,6 +78,7 @@ Projects
     add-on Russian localization.
   + [Rubinius][1]: parts of <http://rubini.us/doc/ru> subtree; translation, edition, doc translation project
     coordination (thanks to the team!).
+  + [YARD][2]: doing Russian translation for the project's website.
 
 Contacts
 --------
@@ -93,5 +98,6 @@ Links
  - <http://facebook.com/ArgentSmith>
 
  [1]: http://rubini.us "Rubinius project"
+ [2]: http://yardoc.org/ "YARD"
 
 {% include footer.md %}
