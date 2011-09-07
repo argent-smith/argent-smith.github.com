@@ -19,33 +19,33 @@ Bio hash
 {% highlight ruby %}
 
     :name               => "Pavel Argentov"
-    :aka		=> :argent_smith
+    :aka                => :argent_smith
 
-    :born		=> 19721009
-    :family		=> [:wife, [:son, :daughter]]
+    :born               => 19721009
+    :family             => [:wife, [:son, :daughter]]
 
-    :programming_in	=> [
-    			    :ruby,
-			    :ocaml,
-			    :perl,
-			    :java,
-			    :c,
-    			    :thousand_small_unix_languages
-			   ]
+    :programming_in     => [
+          :ruby,
+          :ocaml,
+          :perl,
+          :java,
+          :c,
+          :thousand_small_unix_languages
+         ]
 
-    :programming_ruby	=> "since 2002"
+    :programming_ruby   => "since 2002"
 
-    :areas_of_expertise	=> [
+    :areas_of_expertise => [
                             "Unix & Cisco systems administration",
                             "Systems administration automation",
-		            "ISP & multiservice network administration",
-			    "LIR administration",
-			    "Technical translation and software localization",
+                            "ISP & multiservice network administration",
+                            "LIR administration",
+                            "Technical translation and software localization",
                             "Programming",
                             "Writing",
                             "Teaching Biology, Chemistry, Philosophy and Theology"
                             "Making fun"
-		           ]
+                           ]
 
     :locale             => "ru_RU, en_US"
 
@@ -62,6 +62,11 @@ Projects
 * __Under construction__
 
   - [YAWT](http://github.com/argent-smith/yawt) -- Yet Another Whois Tool.
+
+* __Vim__
+
+  - [vim-rpsl](http://github.com/argent-smith/vim-rpsl) -- RPSL syntax plugin
+    for Vim.
 
 * __Gists__
 
