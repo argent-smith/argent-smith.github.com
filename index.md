@@ -101,8 +101,10 @@ Links
  - <http://twitter.com/#!/argent_smith>
  - <http://google.com/profiles/argentoff>
  - <http://facebook.com/ArgentSmith>
+ - [LinkedIn profile][3]
 
  [1]: http://rubini.us "Rubinius project"
  [2]: http://yardoc.org/ "YARD"
+ [3]: http://www.linkedin.com/profile/view?id=138449484&trk=tab_pro "Pavel Argentov@LinkedIn"
 
 {% include footer.md %}
